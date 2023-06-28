@@ -7,7 +7,8 @@ age = 18;//number
 isMarried = false;//boolean
 if(isMarried==true){
     console.log("Estoy casado")
-    }else{
+    }
+    else{
     console.log("No estoy casado")
     }
     ;
