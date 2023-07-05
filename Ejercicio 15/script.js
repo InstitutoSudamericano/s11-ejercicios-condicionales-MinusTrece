@@ -1,8 +1,8 @@
 let nombre="MateoCalle";
 let contador =0;
-let letra = prompt("ingrese una letra");
+
 for (let i = 0; i < nombre.length; i++) {
-if (nombre[i] == letra) {
+if (nombre[i] == a ||nombre[i] == A ) {
         contador++;
       }
   }
